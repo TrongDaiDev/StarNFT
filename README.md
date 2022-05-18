@@ -1,1 +1,1 @@
-# StarToken
+# StarNFT
