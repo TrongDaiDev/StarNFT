@@ -911,7 +911,7 @@ abstract contract ERC721URIStorage is ERC721 {
 }
 
 
-contract StarNft is ERC721URIStorage {
+contract StarNFT is ERC721URIStorage {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
     uint256 public _maxSupply = 2000000; // Max nft to mint (current: 2 milion nfts))
